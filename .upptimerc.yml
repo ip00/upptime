@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Autotrolej
     url: https://www.autotrolej.hr
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: One1.Space
+    url: https://one1.space/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
