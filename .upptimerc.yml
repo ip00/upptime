@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Autotrolej
     url: https://www.autotrolej.hr
+  - name: Rasadnik FYI
+    url: https://rasadnik.fyi/
   - name: One1.Space
     url: https://one1.space/
 
