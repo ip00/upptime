@@ -4,19 +4,19 @@
     "url": "https://www.autotrolej.hr",
     "icon": "https://favicons.githubusercontent.com/www.autotrolej.hr",
     "slug": "autotrolej",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1721,
-    "timeDay": 973,
-    "timeWeek": 1640,
-    "timeMonth": 1721,
-    "timeYear": 1721,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1688,
+    "timeDay": 994,
+    "timeWeek": 1562,
+    "timeMonth": 1688,
+    "timeYear": 1688,
     "dailyMinutesDown": {
-      "2021-09-27": 0
+      "2021-09-27": 16
     }
   },
   {
