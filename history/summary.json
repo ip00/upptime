@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.autotrolej.hr",
     "slug": "autotrolej",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "98.87%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1688,
-    "timeDay": 994,
-    "timeWeek": 1562,
-    "timeMonth": 1688,
-    "timeYear": 1688,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1705,
+    "timeDay": 1547,
+    "timeWeek": 1547,
+    "timeMonth": 1705,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2021-09-27": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2861,
-    "timeDay": 2717,
-    "timeWeek": 2827,
-    "timeMonth": 2861,
-    "timeYear": 2861,
+    "time": 2768,
+    "timeDay": 1079,
+    "timeWeek": 2570,
+    "timeMonth": 2768,
+    "timeYear": 2768,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 319,
-    "timeWeek": 506,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "time": 593,
+    "timeDay": 1494,
+    "timeWeek": 615,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   }
 ]
