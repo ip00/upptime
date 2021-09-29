@@ -6,15 +6,15 @@
     "slug": "autotrolej",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1705,
-    "timeDay": 1547,
-    "timeWeek": 1547,
-    "timeMonth": 1705,
-    "timeYear": 1705,
+    "time": 1678,
+    "timeDay": 1080,
+    "timeWeek": 1428,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2021-09-27": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2768,
-    "timeDay": 1079,
-    "timeWeek": 2570,
-    "timeMonth": 2768,
-    "timeYear": 2768,
+    "time": 2772,
+    "timeDay": 2855,
+    "timeWeek": 2571,
+    "timeMonth": 2772,
+    "timeYear": 2772,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 1494,
-    "timeWeek": 615,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "time": 596,
+    "timeDay": 660,
+    "timeWeek": 623,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   }
 ]
