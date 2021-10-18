@@ -9,6 +9,8 @@ sites:
     url: https://rasadnik.fyi/
   - name: One1.Space
     url: https://one1.space/
+  - name: Medical Bravo
+    url: https://medicalbravo.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
