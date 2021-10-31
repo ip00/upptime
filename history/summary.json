@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1485,
-    "timeDay": 804,
-    "timeWeek": 1347,
-    "timeMonth": 1356,
-    "timeYear": 1485,
+    "time": 1474,
+    "timeDay": 855,
+    "timeWeek": 1202,
+    "timeMonth": 1343,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2021-09-27": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2261,
-    "timeDay": 612,
-    "timeWeek": 734,
-    "timeMonth": 1924,
-    "timeYear": 2261,
+    "time": 2229,
+    "timeDay": 553,
+    "timeWeek": 673,
+    "timeMonth": 1852,
+    "timeYear": 2229,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 401,
-    "timeWeek": 827,
-    "timeMonth": 845,
-    "timeYear": 742,
+    "time": 736,
+    "timeDay": 385,
+    "timeWeek": 579,
+    "timeMonth": 838,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://medicalbravo.com/",
     "icon": "https://favicons.githubusercontent.com/medicalbravo.com",
     "slug": "medical-bravo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1393,
-    "timeDay": 587,
+    "time": 1354,
+    "timeDay": 806,
     "timeWeek": 823,
-    "timeMonth": 1393,
-    "timeYear": 1393,
-    "dailyMinutesDown": {}
+    "timeMonth": 1354,
+    "timeYear": 1354,
+    "dailyMinutesDown": {
+      "2021-10-31": 0
+    }
   }
 ]
