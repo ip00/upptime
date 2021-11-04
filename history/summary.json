@@ -42,9 +42,9 @@
     "url": "https://one1.space/",
     "icon": "https://favicons.githubusercontent.com/one1.space",
     "slug": "one1-space",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 606,
     "timeMonth": 609,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-04": 0
+    }
   },
   {
     "name": "Medical Bravo",
