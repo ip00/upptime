@@ -4,10 +4,10 @@
     "url": "https://www.autotrolej.hr",
     "icon": "https://favicons.githubusercontent.com/www.autotrolej.hr",
     "slug": "autotrolej",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1477,
@@ -16,6 +16,7 @@
     "timeMonth": 1432,
     "timeYear": 1477,
     "dailyMinutesDown": {
+      "2021-11-24": 1,
       "2021-09-27": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://rasadnik.fyi/",
     "icon": "https://favicons.githubusercontent.com/rasadnik.fyi",
     "slug": "rasadnik-fyi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 778,
     "timeMonth": 762,
     "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   },
   {
     "name": "One1.Space",
