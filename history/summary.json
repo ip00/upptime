@@ -45,9 +45,9 @@
     "url": "https://one1.space/",
     "icon": "https://favicons.githubusercontent.com/one1.space",
     "slug": "one1-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -57,6 +57,7 @@
     "timeMonth": 629,
     "timeYear": 656,
     "dailyMinutesDown": {
+      "2021-12-25": 0,
       "2021-11-05": 28,
       "2021-11-04": 45
     }
