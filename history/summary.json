@@ -69,19 +69,19 @@
     "url": "https://medicalbravo.com/",
     "icon": "https://favicons.githubusercontent.com/medicalbravo.com",
     "slug": "medical-bravo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 864,
-    "timeWeek": 914,
-    "timeMonth": 898,
-    "timeYear": 974,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 973,
+    "timeDay": 842,
+    "timeWeek": 902,
+    "timeMonth": 896,
+    "timeYear": 973,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 23
     }
   }
 ]
