@@ -4,9 +4,9 @@
     "url": "https://www.autotrolej.hr",
     "icon": "https://favicons.githubusercontent.com/www.autotrolej.hr",
     "slug": "autotrolej",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 2002,
     "timeYear": 1589,
     "dailyMinutesDown": {
+      "2022-06-20": 0,
       "2021-11-24": 71,
       "2021-09-27": 16
     }
