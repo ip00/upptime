@@ -26,9 +26,9 @@
     "url": "https://rasadnik.fyi/",
     "icon": "https://favicons.githubusercontent.com/rasadnik.fyi",
     "slug": "rasadnik-fyi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 1467,
     "timeYear": 1738,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2021-11-24": 70
     }
   },
