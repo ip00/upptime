@@ -39,7 +39,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-05-15": 35,
+      "2023-05-15": 226,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
@@ -51,9 +51,9 @@
     "url": "https://rijeka-plus.hr/",
     "icon": "https://icons.duckduckgo.com/ip3/rijeka-plus.hr.ico",
     "slug": "rijeka-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 2149,
     "timeMonth": 2149,
     "timeYear": 2149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-15": 0
+    }
   },
   {
     "name": "Rasadnik FYI",
