@@ -39,7 +39,7 @@
     "timeMonth": 94,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-07-21": 38,
+      "2023-07-21": 231,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -164,11 +164,11 @@
     "url": "https://one1.space/",
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 588,
     "timeDay": 380,
@@ -176,6 +176,7 @@
     "timeMonth": 503,
     "timeYear": 585,
     "dailyMinutesDown": {
+      "2023-07-21": 0,
       "2023-07-15": 15,
       "2023-05-08": 17,
       "2023-01-25": 45
