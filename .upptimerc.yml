@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Autotrolej
     url: https://www.autotrolej.hr
-  #- name: RUNE
-  #  url: https://www.ruralnetwork.eu
   - name: RIJEKA plus
     url: https://rijeka-plus.hr/  
   - name: Rasadnik FYI
@@ -15,6 +13,8 @@ sites:
     url: https://one1.space/
   - name: Medical Bravo
     url: https://medicalbravo.com/
+  - name: RUNE
+    url: https://www.ruralnetwork.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
