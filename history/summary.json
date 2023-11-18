@@ -4,19 +4,19 @@
     "url": "https://www.autotrolej.hr",
     "icon": "https://icons.duckduckgo.com/ip3/www.autotrolej.hr.ico",
     "slug": "autotrolej",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1547,
-    "timeDay": 1249,
-    "timeWeek": 1215,
-    "timeMonth": 1344,
-    "timeYear": 1469,
+    "time": 1546,
+    "timeDay": 1149,
+    "timeWeek": 1194,
+    "timeMonth": 1334,
+    "timeYear": 1468,
     "dailyMinutesDown": {
-      "2023-11-18": 0,
+      "2023-11-18": 8,
       "2023-05-22": 44,
       "2023-01-25": 39
     }
@@ -26,9 +26,9 @@
     "url": "https://rijeka-plus.hr/",
     "icon": "https://icons.duckduckgo.com/ip3/rijeka-plus.hr.ico",
     "slug": "rijeka-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -38,6 +38,7 @@
     "timeMonth": 2486,
     "timeYear": 2304,
     "dailyMinutesDown": {
+      "2023-11-18": 0,
       "2023-05-22": 44,
       "2023-05-15": 180
     }
@@ -132,7 +133,7 @@
     "timeMonth": 167,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-11-18": 991,
+      "2023-11-18": 1001,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
