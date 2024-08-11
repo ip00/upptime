@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1299,
-    "timeDay": 1021,
-    "timeWeek": 1310,
-    "timeMonth": 1214,
-    "timeYear": 1312,
+    "timeDay": 1381,
+    "timeWeek": 1315,
+    "timeMonth": 1232,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2024-05-06": 25,
       "2024-04-12": 77,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2409,
-    "timeDay": 1807,
-    "timeWeek": 2066,
-    "timeMonth": 2357,
-    "timeYear": 2439,
+    "time": 2407,
+    "timeDay": 1595,
+    "timeWeek": 1968,
+    "timeMonth": 2329,
+    "timeYear": 2438,
     "dailyMinutesDown": {
       "2024-05-06": 24,
       "2024-04-12": 284,
@@ -50,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rasadnik.fyi.ico",
     "slug": "rasadnik-fyi",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1080,
-    "timeDay": 1552,
-    "timeWeek": 1326,
-    "timeMonth": 1227,
-    "timeYear": 1079,
+    "timeDay": 935,
+    "timeWeek": 1293,
+    "timeMonth": 1214,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2024-04-12": 344,
       "2023-11-19": 30
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 589,
-    "timeDay": 432,
-    "timeWeek": 548,
-    "timeMonth": 577,
-    "timeYear": 614,
+    "timeDay": 440,
+    "timeWeek": 531,
+    "timeMonth": 578,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2024-07-07": 15,
       "2024-06-05": 160,
@@ -91,8 +91,7 @@
       "2023-12-20": 17,
       "2023-10-26": 30,
       "2023-08-31": 47,
-      "2023-08-13": 388,
-      "2023-08-12": 4
+      "2023-08-13": 388
     }
   },
   {
@@ -106,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 919,
-    "timeDay": 1103,
-    "timeWeek": 1076,
-    "timeMonth": 1021,
+    "time": 918,
+    "timeDay": 728,
+    "timeWeek": 1024,
+    "timeMonth": 1018,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2024-04-12": 33,
@@ -128,12 +127,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 135,
-    "timeDay": 50,
-    "timeWeek": 209,
+    "timeDay": 65,
+    "timeWeek": 147,
     "timeMonth": 208,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-08-10": 38,
+      "2024-08-11": 42,
+      "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
@@ -496,8 +496,7 @@
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
-      "2023-08-13": 1440,
-      "2023-08-12": 1440
+      "2023-08-13": 1440
     }
   }
 ]
