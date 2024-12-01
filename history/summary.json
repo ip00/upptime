@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1306,
-    "timeDay": 1341,
-    "timeWeek": 1110,
-    "timeMonth": 1208,
-    "timeYear": 1317,
+    "time": 1307,
+    "timeDay": 1423,
+    "timeWeek": 1171,
+    "timeMonth": 1209,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2024-05-06": 25,
       "2024-04-12": 77
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2411,
-    "timeDay": 2817,
-    "timeWeek": 2280,
-    "timeMonth": 2558,
-    "timeYear": 2432,
+    "time": 2413,
+    "timeDay": 3201,
+    "timeWeek": 2468,
+    "timeMonth": 2546,
+    "timeYear": 2425,
     "dailyMinutesDown": {
       "2024-10-01": 17,
       "2024-05-06": 24,
@@ -49,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rasadnik.fyi.ico",
     "slug": "rasadnik-fyi",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1084,
-    "timeDay": 889,
-    "timeWeek": 803,
-    "timeMonth": 1038,
+    "time": 1083,
+    "timeDay": 975,
+    "timeWeek": 820,
+    "timeMonth": 1039,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2024-04-12": 344
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 600,
-    "timeDay": 577,
-    "timeWeek": 546,
-    "timeMonth": 544,
+    "timeDay": 536,
+    "timeWeek": 557,
+    "timeMonth": 536,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2024-10-13": 43,
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1160,
-    "timeDay": 4735,
-    "timeWeek": 2591,
-    "timeMonth": 2471,
-    "timeYear": 1237,
+    "time": 1161,
+    "timeDay": 981,
+    "timeWeek": 2629,
+    "timeMonth": 2508,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2024-04-12": 33
     }
@@ -128,12 +128,12 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "8.13%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "8.41%",
     "time": 136,
-    "timeDay": 90,
-    "timeWeek": 74,
-    "timeMonth": 107,
+    "timeDay": 84,
+    "timeWeek": 78,
+    "timeMonth": 108,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2024-10-30": 504,
@@ -468,8 +468,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   }
 ]
