@@ -164,17 +164,17 @@
     "url": "https://www.ruralnetwork.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruralnetwork.eu.ico",
     "slug": "rune",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "18.52%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "98.13%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "19.04%",
+    "uptimeWeek": "16.89%",
+    "uptimeMonth": "77.71%",
+    "uptimeYear": "98.14%",
     "time": 433,
-    "timeDay": 445,
-    "timeWeek": 482,
-    "timeMonth": 589,
-    "timeYear": 464,
+    "timeDay": 443,
+    "timeWeek": 480,
+    "timeMonth": 588,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-03-17": 926,
       "2025-03-16": 1140,
@@ -184,7 +184,7 @@
       "2025-03-12": 1191,
       "2025-03-11": 1060,
       "2025-03-10": 1005,
-      "2025-03-09": 606
+      "2025-03-09": 560
     }
   }
 ]
