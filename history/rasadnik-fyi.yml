@@ -1,7 +1,7 @@
 url: https://rasadnik.fyi/
-status: up
-code: 200
-responseTime: 19158
-lastUpdated: 2026-01-06T17:12:41.274Z
+status: down
+code: 503
+responseTime: 624
+lastUpdated: 2026-01-06T21:28:24.848Z
 startTime: 2021-09-10T08:50:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
