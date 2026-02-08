@@ -168,14 +168,14 @@
     "url": "https://one1.space/",
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "93.26%",
+    "uptimeDay": "93.24%",
     "uptimeWeek": "97.06%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "96.18%",
     "time": 544,
-    "timeDay": 455,
+    "timeDay": 451,
     "timeWeek": 426,
     "timeMonth": 470,
     "timeYear": 546,
@@ -258,8 +258,7 @@
       "2025-05-31": 50,
       "2025-05-04": 125,
       "2025-03-26": 31,
-      "2025-03-25": 51,
-      "2025-03-11": 20
+      "2025-03-25": 51
     }
   },
   {
@@ -322,7 +321,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ruralnetwork.eu.ico",
     "slug": "rune",
     "status": "up",
-    "uptime": "84.89%",
+    "uptime": "84.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
