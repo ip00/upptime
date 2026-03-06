@@ -149,14 +149,14 @@
     "url": "https://one1.space/",
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "97.43%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "97.94%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 533,
-    "timeDay": 382,
+    "timeDay": 394,
     "timeWeek": 442,
     "timeMonth": 446,
     "timeYear": 534,
@@ -219,8 +219,7 @@
       "2025-12-04": 26,
       "2025-12-02": 33,
       "2025-11-30": 63,
-      "2025-11-29": 19,
-      "2025-11-24": 20
+      "2025-11-29": 19
     }
   },
   {
@@ -276,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ruralnetwork.eu.ico",
     "slug": "rune",
     "status": "up",
-    "uptime": "85.32%",
+    "uptime": "85.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -285,7 +284,7 @@
     "timeDay": 1002,
     "timeWeek": 1087,
     "timeMonth": 1081,
-    "timeYear": 640,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-11-18": 1302,
       "2025-11-17": 1440,
