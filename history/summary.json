@@ -11,9 +11,9 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.66%",
     "time": 1241,
-    "timeDay": 1654,
-    "timeWeek": 1191,
-    "timeMonth": 1365,
+    "timeDay": 1169,
+    "timeWeek": 1222,
+    "timeMonth": 1351,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2026-03-14": 222,
@@ -44,8 +44,7 @@
       "2025-04-16": 45,
       "2025-04-11": 22,
       "2025-04-02": 21,
-      "2025-03-31": 17,
-      "2025-03-26": 40
+      "2025-03-31": 17
     }
   },
   {
@@ -59,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.69%",
-    "time": 2424,
-    "timeDay": 2451,
-    "timeWeek": 2609,
-    "timeMonth": 2354,
-    "timeYear": 2452,
+    "time": 2423,
+    "timeDay": 1787,
+    "timeWeek": 2601,
+    "timeMonth": 2359,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2026-03-14": 221,
       "2026-02-21": 261,
@@ -94,8 +93,7 @@
       "2025-04-16": 29,
       "2025-04-11": 22,
       "2025-04-02": 20,
-      "2025-03-31": 17,
-      "2025-03-26": 39
+      "2025-03-31": 17
     }
   },
   {
@@ -109,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1406,
-    "timeDay": 1166,
-    "timeWeek": 1024,
-    "timeMonth": 1123,
-    "timeYear": 1423,
+    "time": 1404,
+    "timeDay": 649,
+    "timeWeek": 1040,
+    "timeMonth": 1106,
+    "timeYear": 1420,
     "dailyMinutesDown": {
       "2026-01-07": 349,
       "2026-01-06": 38,
@@ -139,8 +137,7 @@
       "2025-04-16": 28,
       "2025-04-11": 21,
       "2025-04-02": 20,
-      "2025-03-31": 16,
-      "2025-03-26": 39
+      "2025-03-31": 16
     }
   },
   {
@@ -150,15 +147,15 @@
     "slug": "one1-space",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.35%",
     "uptimeYear": "99.32%",
-    "time": 528,
-    "timeDay": 486,
-    "timeWeek": 439,
-    "timeMonth": 442,
-    "timeYear": 527,
+    "time": 527,
+    "timeDay": 376,
+    "timeWeek": 434,
+    "timeMonth": 439,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2026-03-25": 0,
       "2026-03-24": 72,
@@ -231,10 +228,10 @@
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.75%",
-    "time": 1437,
-    "timeDay": 1034,
-    "timeWeek": 826,
-    "timeMonth": 802,
+    "time": 1427,
+    "timeDay": 783,
+    "timeWeek": 819,
+    "timeMonth": 801,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2026-03-25": 61,
@@ -264,8 +261,7 @@
       "2025-04-23": 26,
       "2025-04-11": 21,
       "2025-04-02": 19,
-      "2025-03-31": 16,
-      "2025-03-26": 38
+      "2025-03-31": 16
     }
   },
   {
@@ -274,16 +270,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ruralnetwork.eu.ico",
     "slug": "rune",
     "status": "up",
-    "uptime": "85.61%",
+    "uptime": "85.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "62.51%",
     "time": 678,
-    "timeDay": 1233,
-    "timeWeek": 1086,
-    "timeMonth": 1061,
-    "timeYear": 728,
+    "timeDay": 846,
+    "timeWeek": 1078,
+    "timeMonth": 1055,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-11-18": 1302,
       "2025-11-17": 1440,
