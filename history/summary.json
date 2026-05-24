@@ -193,16 +193,16 @@
     "url": "https://medicalbravo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/medicalbravo.com.ico",
     "slug": "medical-bravo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "77.86%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "77.44%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.17%",
     "time": 1306,
-    "timeDay": 735,
-    "timeWeek": 758,
-    "timeMonth": 787,
+    "timeDay": 821,
+    "timeWeek": 778,
+    "timeMonth": 792,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-06-25": 44,
@@ -240,7 +240,7 @@
       "2026-05-22": 422,
       "2026-05-21": 1439,
       "2026-05-23": 371,
-      "2026-05-24": 0
+      "2026-05-24": 43
     }
   },
   {
