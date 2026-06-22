@@ -122,10 +122,10 @@
     "slug": "one1-space",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "73.50%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "97.98%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "73.19%",
+    "uptimeMonth": "85.01%",
+    "uptimeYear": "97.97%",
     "time": 502,
     "timeDay": 383,
     "timeWeek": 415,
@@ -189,7 +189,7 @@
       "2026-06-19": 257,
       "2026-06-20": 454,
       "2026-06-21": 100,
-      "2026-06-22": 0
+      "2026-06-22": 31
     }
   },
   {
@@ -201,7 +201,7 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.33%",
-    "uptimeMonth": "95.38%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "98.92%",
     "time": 1246,
     "timeDay": 1042,
