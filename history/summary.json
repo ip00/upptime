@@ -13,7 +13,7 @@
     "time": 1262,
     "timeDay": 1512,
     "timeWeek": 1353,
-    "timeMonth": 1381,
+    "timeMonth": 1367,
     "timeYear": 1250,
     "dailyMinutesDown": {
       "2025-07-29": 28,
@@ -52,7 +52,7 @@
     "time": 2412,
     "timeDay": 3225,
     "timeWeek": 2670,
-    "timeMonth": 2435,
+    "timeMonth": 2430,
     "timeYear": 2499,
     "dailyMinutesDown": {
       "2025-07-17": 15,
@@ -91,7 +91,7 @@
     "time": 1348,
     "timeDay": 1271,
     "timeWeek": 1194,
-    "timeMonth": 1084,
+    "timeMonth": 1080,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2025-07-17": 15,
@@ -118,15 +118,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "86.79%",
-    "uptimeWeek": "86.40%",
-    "uptimeMonth": "79.76%",
-    "uptimeYear": "97.31%",
+    "uptime": "99.44%",
+    "uptimeDay": "81.09%",
+    "uptimeWeek": "85.59%",
+    "uptimeMonth": "79.57%",
+    "uptimeYear": "97.30%",
     "time": 492,
     "timeDay": 403,
     "timeWeek": 414,
-    "timeMonth": 405,
+    "timeMonth": 404,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2026-04-17": 52,
@@ -186,7 +186,7 @@
       "2026-07-13": 169,
       "2026-07-14": 463,
       "2026-07-15": 191,
-      "2026-07-16": 0
+      "2026-07-16": 82
     }
   },
   {
@@ -203,7 +203,7 @@
     "time": 1197,
     "timeDay": 799,
     "timeWeek": 678,
-    "timeMonth": 786,
+    "timeMonth": 782,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-07-17": 111,
@@ -266,11 +266,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.49%",
+    "uptimeYear": "65.51%",
     "time": 892,
     "timeDay": 1266,
     "timeWeek": 1247,
-    "timeMonth": 1222,
+    "timeMonth": 1213,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2025-11-18": 1302,
