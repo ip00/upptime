@@ -13,7 +13,7 @@
     "time": 1265,
     "timeDay": 1564,
     "timeWeek": 1452,
-    "timeMonth": 1353,
+    "timeMonth": 1344,
     "timeYear": 1250,
     "dailyMinutesDown": {
       "2025-07-29": 28,
@@ -52,7 +52,7 @@
     "time": 2420,
     "timeDay": 2904,
     "timeWeek": 2910,
-    "timeMonth": 2573,
+    "timeMonth": 2567,
     "timeYear": 2515,
     "dailyMinutesDown": {
       "2025-07-29": 28,
@@ -90,7 +90,7 @@
     "time": 1348,
     "timeDay": 1326,
     "timeWeek": 1313,
-    "timeMonth": 1114,
+    "timeMonth": 1113,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2025-07-29": 27,
@@ -117,14 +117,14 @@
     "slug": "one1-space",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "85.93%",
-    "uptimeMonth": "83.19%",
-    "uptimeYear": "97.24%",
+    "uptimeDay": "82.17%",
+    "uptimeWeek": "85.82%",
+    "uptimeMonth": "82.94%",
+    "uptimeYear": "97.22%",
     "time": 489,
     "timeDay": 379,
-    "timeWeek": 410,
-    "timeMonth": 404,
+    "timeWeek": 411,
+    "timeMonth": 403,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2026-05-25": 61,
@@ -177,7 +177,8 @@
       "2026-07-19": 204,
       "2026-07-20": 166,
       "2026-07-21": 107,
-      "2026-07-22": 144
+      "2026-07-22": 150,
+      "2026-07-23": 106
     }
   },
   {
@@ -194,7 +195,7 @@
     "time": 1194,
     "timeDay": 672,
     "timeWeek": 711,
-    "timeMonth": 762,
+    "timeMonth": 756,
     "timeYear": 1128,
     "dailyMinutesDown": {
       "2025-07-29": 27,
@@ -257,11 +258,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.41%",
+    "uptimeYear": "67.43%",
     "time": 902,
     "timeDay": 1280,
     "timeWeek": 1168,
-    "timeMonth": 1171,
+    "timeMonth": 1166,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-11-18": 1302,
@@ -382,7 +383,6 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
       "2026-04-28": 69
     }
   }
