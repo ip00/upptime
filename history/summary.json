@@ -115,16 +115,16 @@
     "url": "https://one1.space/",
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "84.77%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "77.26%",
+    "uptimeWeek": "82.95%",
     "uptimeMonth": "83.22%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.14%",
     "time": 485,
-    "timeDay": 383,
-    "timeWeek": 412,
-    "timeMonth": 404,
+    "timeDay": 397,
+    "timeWeek": 414,
+    "timeMonth": 405,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2026-06-04": 386,
@@ -174,7 +174,7 @@
       "2026-07-23": 669,
       "2026-07-24": 307,
       "2026-07-26": 110,
-      "2026-07-27": 34
+      "2026-07-27": 217
     }
   },
   {
@@ -182,17 +182,17 @@
     "url": "https://medicalbravo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/medicalbravo.com.ico",
     "slug": "medical-bravo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "78.28%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "98.76%",
     "time": 1193,
-    "timeDay": 613,
-    "timeWeek": 709,
-    "timeMonth": 748,
-    "timeYear": 1124,
+    "timeDay": 673,
+    "timeWeek": 718,
+    "timeMonth": 749,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2025-07-29": 27,
       "2025-08-01": 48,
@@ -243,7 +243,7 @@
       "2026-07-21": 74,
       "2026-07-22": 69,
       "2026-07-26": 100,
-      "2026-07-27": 29
+      "2026-07-27": 213
     }
   },
   {
@@ -256,7 +256,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.53%",
+    "uptimeYear": "68.56%",
     "time": 906,
     "timeDay": 560,
     "timeWeek": 1186,
