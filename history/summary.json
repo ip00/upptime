@@ -117,8 +117,8 @@
     "slug": "one1-space",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "92.01%",
-    "uptimeWeek": "85.06%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "84.77%",
     "uptimeMonth": "83.22%",
     "uptimeYear": "97.18%",
     "time": 485,
@@ -174,7 +174,7 @@
       "2026-07-23": 669,
       "2026-07-24": 307,
       "2026-07-26": 110,
-      "2026-07-27": 5
+      "2026-07-27": 34
     }
   },
   {
@@ -184,10 +184,10 @@
     "slug": "medical-bravo",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.79%",
     "time": 1193,
     "timeDay": 613,
     "timeWeek": 709,
@@ -243,7 +243,7 @@
       "2026-07-21": 74,
       "2026-07-22": 69,
       "2026-07-26": 100,
-      "2026-07-27": 0
+      "2026-07-27": 29
     }
   },
   {
@@ -256,7 +256,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.52%",
+    "uptimeYear": "68.53%",
     "time": 906,
     "timeDay": 560,
     "timeWeek": 1186,
