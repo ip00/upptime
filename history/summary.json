@@ -115,15 +115,15 @@
     "url": "https://one1.space/",
     "icon": "https://icons.duckduckgo.com/ip3/one1.space.ico",
     "slug": "one1-space",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "77.24%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "83.70%",
-    "uptimeYear": "97.16%",
-    "time": 485,
-    "timeDay": 419,
-    "timeWeek": 418,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "63.14%",
+    "uptimeWeek": "80.93%",
+    "uptimeMonth": "83.50%",
+    "uptimeYear": "97.12%",
+    "time": 477,
+    "timeDay": 437,
+    "timeWeek": 422,
     "timeMonth": 406,
     "timeYear": 459,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
       "2026-07-23": 669,
       "2026-07-24": 307,
       "2026-07-26": 110,
-      "2026-07-27": 217
+      "2026-07-27": 420
     }
   },
   {
@@ -256,7 +256,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.60%",
+    "uptimeYear": "68.64%",
     "time": 906,
     "timeDay": 560,
     "timeWeek": 1186,
